@@ -23,6 +23,7 @@
 - (IBAction)testAction:(id)sender {
     NSLog(@"ttttt");
     NSLog(@"ddddddd");
+    NSLog(@"clx");
 }
 
 - (void)didReceiveMemoryWarning
