@@ -21,6 +21,7 @@
 		7404113118753709000DB2F6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7404111318753709000DB2F6 /* UIKit.framework */; };
 		7404113918753709000DB2F6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7404113718753709000DB2F6 /* InfoPlist.strings */; };
 		7404113B18753709000DB2F6 /* GitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7404113A18753709000DB2F6 /* GitTestTests.m */; };
+		7404115A18755DD2000DB2F6 /* dddddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7404115918755DD2000DB2F6 /* dddddViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		7404113618753709000DB2F6 /* GitTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitTestTests-Info.plist"; sourceTree = "<group>"; };
 		7404113818753709000DB2F6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7404113A18753709000DB2F6 /* GitTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestTests.m; sourceTree = "<group>"; };
+		7404115818755DD2000DB2F6 /* dddddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dddddViewController.h; sourceTree = "<group>"; };
+		7404115918755DD2000DB2F6 /* dddddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dddddViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				7404112518753709000DB2F6 /* ViewController.m */,
 				7404112718753709000DB2F6 /* Images.xcassets */,
 				7404111618753709000DB2F6 /* Supporting Files */,
+				7404115818755DD2000DB2F6 /* dddddViewController.h */,
+				7404115918755DD2000DB2F6 /* dddddViewController.m */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -252,6 +257,7 @@
 				7404112618753709000DB2F6 /* ViewController.m in Sources */,
 				7404112018753709000DB2F6 /* AppDelegate.m in Sources */,
 				7404111C18753709000DB2F6 /* main.m in Sources */,
+				7404115A18755DD2000DB2F6 /* dddddViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
