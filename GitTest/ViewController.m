@@ -21,10 +21,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 - (IBAction)testAction:(id)sender {
-    NSLog(@"ttttt");
-    NSLog(@"ddddddd");
-    NSLog(@"clx");
-    NSLog(@"wxf");
+    NSLog(@"测试分支合并");
 }
 
 - (void)didReceiveMemoryWarning
